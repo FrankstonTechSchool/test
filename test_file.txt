@@ -1,5 +1,5 @@
 $one = 1
-$two = 2
+$two = 1
 
 IF ($one -ne $two) {
 Write-Output "one is not two"
