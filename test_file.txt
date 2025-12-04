@@ -1,1 +1,10 @@
+$one = 1
+$two = 2
+
+IF ($one -ne $two) {
+Write-Output "one is not two"
+}
+Else {
+Write-Output "one is two... I guess"
+}
 pause
